@@ -1,0 +1,38 @@
+# jjandori_clothes
+jjandori_clothes
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>셔츠</title>
+</head>
+<body>
+    <h1>안녕하세요!</h1>
+    <p>메모장으로 만든 HTML 파일입니다.</p>
+
+    <h3>1번 목록</h3>
+    <ul>
+        <li><a href="https://www.musinsa.com/products/4779485" target="_blank">상품 4779485 바로가기</a></li>
+        <li><a href="https://www.musinsa.com/products/4092488" target="_blank">상품 4092488 바로가기</a></li>
+        <li><a href="https://www.musinsa.com/products/3438764" target="_blank">상품 3438764 바로가기</a></li>
+        <li><a href="https://www.musinsa.com/products/3884791" target="_blank">상품 3884791 바로가기</a></li>
+    </ul>
+
+    <h3>2번 목록</h3>
+    <ul>
+        <li><a href="https://www.musinsa.com/products/5875600" target="_blank">상품 5875600 바로가기</a></li>
+        <li><a href="https://www.musinsa.com/products/6159011" target="_blank">상품 6159011 바로가기</a></li>
+        <li><a href="https://www.musinsa.com/products/4761188" target="_blank">상품 4761188 바로가기</a></li>
+        <li><a href="https://www.kream.co.kr/products/716894" target="_blank">KREAM 상품 716894 바로가기</a></li>
+    </ul>
+
+    <h3>3번 목록</h3>
+    <ul>
+        <li><a href="https://www.musinsa.com/products/4239173" target="_blank">상품 4239173 바로가기</a></li>
+        <li><a href="https://www.musinsa.com/products/4313374" target="_blank">상품 4313374 바로가기</a></li>
+        <li><a href="https://www.musinsa.com/products/4300542" target="_blank">상품 4300542 바로가기</a></li>
+        <li><a href="https://www.musinsa.com/products/5453372" target="_blank">상품 5453372 바로가기</a></li>
+    </ul>
+</body>
+</html>
